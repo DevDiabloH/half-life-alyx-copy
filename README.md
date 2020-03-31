@@ -7,5 +7,5 @@ I was impressed with Half Life Alyx and I am trying to implement part of that sy
 ***
 Half life Alyx - Text Style
 -------------
-![](https://github.com/DevDiabloH/half-life-alxy-copy/blob/master/Image/half-life-alxy-style-text.gif)
+![](https://github.com/DevDiabloH/half-life-alxy-copy/blob/master/Image/half-life-alyx-style-text.gif)
 ***
